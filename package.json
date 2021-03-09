@@ -1,0 +1,11 @@
+{
+  "name": "request-url",
+  "version": "1.5.8",
+  "description": "web端移动端api请求地址",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangzhenyu",
+  "license": "ISC"
+}
